@@ -14,6 +14,9 @@ _Text can be italicizes and still be **bolded**_.
 
 ## Working with images 
 
+To insert an images into text, just write the following: 
+![Hi, this is parrot](Popugai.jpeg)  
+
 ## Links
 
 ## Working with tables
