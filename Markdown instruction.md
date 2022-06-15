@@ -31,8 +31,8 @@ Example:
 ## Working with images 
 
 To insert an images into text, just write the following: 
-![Hi, this is parrot](Popugai.jpeg)
-![This is Nature](Tree.jpeg)  
+
+![This is Nature](tree.jpeg)  
 
 ## Links
 
