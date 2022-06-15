@@ -12,7 +12,21 @@ _Text can be italicizes and still be **bolded**_.
 
 ## Lists
 
-For using enumerative list use (*)
+For adding unnumerated lists you need to highlite items with asterisk (*) or (+). 
+
+Example:
+* Element 1
+* Element 2
+* Element 3
++ Element 4
+
+
+For adding numerated lists you need to highlite items with numbers (1.). 
+
+Example:
+1. Element 1
+2. Element 2
+3. Element 3
 
 ## Working with images 
 
